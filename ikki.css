@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+@media screen and (max-width:1519px) and (min-width:320px)  {
+    .imge{
+        width: 320px;
+        display: flex;
+        justify-content: center;
+    }
+    .ko,.k,.j{
+        flex-wrap: wrap;
+        justify-content: center;
+
+
+    }
+    .d,.l,.l{
+        margin-top: 30px;
+    }
+    .i{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .t{
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 20px;
+    }
+}
